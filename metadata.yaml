@@ -1,0 +1,36 @@
+_repo: Elama-ja-mina-b-Suorasanaisia-runoja_72405
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pajari, M.
+    aliases:
+    - Rautio, Tyyne Maria
+    - Rautio, Tyyne Maija
+    - Taurus
+    - Urania
+    birthdate: 1900
+    deathdate: 1972
+    gutenberg_agent_id: '56671'
+    url: http://www.gutenberg.org/2009/agents/56671
+    wikipedia: https://fi.wikipedia.org/wiki/M._Pajari
+description: ''
+gutenberg_issued: '2023-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72405'
+language: fi
+pgterms:marc905: 20231212035503pajari
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish literature'
+- !lcsh 'Prose poems, Finnish'
+- !lcc 'PH'
+- GITenberg
+title: 'Elämä ja minä : $b Suorasanaisia runoja'
+url: http://www.gutenberg.org/ebooks/72405
